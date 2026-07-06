@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Simple shop-front icon for Mesin Kasir -->
+  <rect x="32" y="160" width="448" height="288" rx="20" ry="20" fill="#f7c948" stroke="#c77c00" stroke-width="6"/>
+  <rect x="56" y="200" width="400" height="208" fill="#ffffff" rx="8"/>
+  <rect x="88" y="232" width="96" height="96" fill="#f7c948"/>
+  <rect x="208" y="232" width="96" height="96" fill="#f7c948"/>
+  <rect x="328" y="232" width="96" height="96" fill="#f7c948"/>
+  <!-- Awning -->
+  <path d="M32 160 L480 160 L480 120 A24 24 0 0 0 456 96 L56 96 A24 24 0 0 0 32 120 Z" fill="#e74c3c" stroke="#b02121" stroke-width="6"/>
+  <!-- Door -->
+  <rect x="224" y="304" width="64" height="144" fill="#6d4c41" rx="6"/>
+  <circle cx="276" cy="376" r="4" fill="#ffd54f"/>
+  <!-- Cash register symbol -->
+  <rect x="80" y="72" width="128" height="56" rx="8" fill="#2c3e50"/>
+  <rect x="104" y="96" width="80" height="8" rx="4" fill="#f7c948"/>
+  <text x="260" y="140" font-family="Arial, Helvetica, sans-serif" font-size="38" fill="#2c3e50">MK</text>
+</svg>
